@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cascade 3.0\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cascade 3.0\\.nuget\\packages"
+    ]
+  }
+}

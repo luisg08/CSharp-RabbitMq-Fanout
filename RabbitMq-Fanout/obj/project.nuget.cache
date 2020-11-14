@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DN5ibeKq3LRS3l1zJRSr6oeS2DqLQvMWQS7X+iRCFnaIlazkCMU4blbSHttchoq0TFxif173fuCtbIS/SYlzuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cascade 3.0\\source\\repos\\RabbitMq-Fanout\\RabbitMq-Fanout\\RabbitMq-Fanout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cascade 3.0\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Cascade 3.0\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Cascade 3.0\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

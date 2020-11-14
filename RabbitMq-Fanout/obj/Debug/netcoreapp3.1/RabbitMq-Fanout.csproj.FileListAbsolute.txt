@@ -1,0 +1,16 @@
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\RabbitMq-Fanout.exe
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\RabbitMq-Fanout.deps.json
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\RabbitMq-Fanout.runtimeconfig.json
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\RabbitMq-Fanout.runtimeconfig.dev.json
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\RabbitMq-Fanout.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\RabbitMq-Fanout.pdb
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.csprojAssemblyReference.cache
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.AssemblyInfoInputs.cache
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.AssemblyInfo.cs
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.csproj.CoreCompileInputs.cache
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.csproj.CopyComplete
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.pdb
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Fanout\RabbitMq-Fanout\obj\Debug\netcoreapp3.1\RabbitMq-Fanout.genruntimeconfig.cache
