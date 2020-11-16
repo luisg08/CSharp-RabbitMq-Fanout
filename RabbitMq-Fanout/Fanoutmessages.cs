@@ -15,7 +15,7 @@ namespace RequestRabbitMQ
             //Main entry point to the RabbitMQ .NET AMQP client
             var connectionFactory = new ConnectionFactory();
 
-            connectionFactory.Uri = new Uri("amqps://ucrhweyl:eYCN6txHd4NPy_blBoKJIwKo1apxm3E5@jackal.rmq.cloudamqp.com/ucrhweyl");
+            connectionFactory.Uri = new Uri("amqps://");
             connectionFactory.AutomaticRecoveryEnabled = true;
 
             var connection = connectionFactory.CreateConnection();
